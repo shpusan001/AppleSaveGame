@@ -1,0 +1,17 @@
+점수:0#이름:player
+
+점수:13#이름:player
+점수:17#이름:player
+점수:24#이름:player
+점수:24#이름:player
+
+점수:26#이름:player
+점수:29#이름:player
+점수:3#이름:player
+점수:3#이름:player
+점수:3#이름:player
+점수:4#이름:player
+점수:4#이름:player
+점수:5#이름:player
+점수:78#이름:player
+
